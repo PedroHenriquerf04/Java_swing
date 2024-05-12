@@ -39,6 +39,3 @@ Java Swing é uma biblioteca gráfica para Java. Ela é parte do JFC (Java Found
 
 Este repositório também inclui exemplos de código para cada tópico discutido na apresentação.
 
-## Recursos Adicionais
-
-Links para tutoriais, documentação oficial e outros recursos úteis para aprender mais sobre Java Swing.
