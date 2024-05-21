@@ -9,7 +9,7 @@ public class PessoaTela {
         // TELA
         JFrame janela = new JFrame("Calcular Imposto");
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        janela.setSize(250, 250);
+        janela.setSize(250, 280);
         janela.setLayout(null);
         janela.setResizable(false);
         janela.setLocationRelativeTo(null);
